@@ -1,0 +1,39 @@
+.important {
+  font-weight: bold;
+}
+
+a {
+  padding: 20px;
+  margin: 10px;
+  color: #000;
+  text-decoration: none;
+  background-color: green;
+}
+a:visited {
+  background-color: rgb(255, 38, 0);
+}
+a:active {
+  background-color: yellow;
+}
+
+p {
+  background-color: aqua;
+}
+
+.par-1 {
+  font-size: 16px;
+}
+
+.par-2 {
+  font-size: 18px;
+}
+
+.par-3 {
+  font-size: 18px;
+}
+
+.par-4 {
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style2.css.map */

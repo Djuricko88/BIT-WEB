@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(24, 216, 197);
+  display: flex;
+}
+body p {
+  margin: 10%;
+  color: #badd2d;
+  background: black;
+}
+body p:hover {
+  background: lime;
+}
+
+/*# sourceMappingURL=style.css.map */
